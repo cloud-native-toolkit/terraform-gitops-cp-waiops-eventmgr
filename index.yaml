@@ -1,0 +1,11 @@
+name: gitops-cp-waiops-eventmgr
+type: gitops
+description: >-
+  Module to populate a gitops repo with the resources to provision
+  cp-waiops-eventmgr
+tags:
+  - tools
+  - gitops
+versions: []
+softwareProvider: ibm-cp
+id: github.com/cloud-native-toolkit/terraform-gitops-cp-waiops-eventmgr
